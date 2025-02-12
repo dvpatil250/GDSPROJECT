@@ -21,8 +21,8 @@ This project demonstrates an automated deployment pipeline for an AWS Lambda fun
 
 ## Prerequisites
 - **AWS Account** with IAM permissions for Lambda, ECR, RDS, Glue, and S3
-- **Terraform Installed** (`>=1.0.0`)
-- **Docker Installed** (`>=20.10`)
+- **Terraform Installed** 
+- **Docker Installed** 
 - **Jenkins Installed** with AWS CLI & Terraform plugins
 - **GitHub Repository** (for storing source code and Jenkins integration)
 
